@@ -13,7 +13,7 @@ This project implements two Python modules and a written case study:
 ## Project Structure
 
 ```text
-AI-Intern-Assignment/
+ai-intern-take-home/
 │
 ├── data/
 │   ├── support_tickets.json
